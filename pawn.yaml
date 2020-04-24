@@ -1,0 +1,15 @@
+dependencymeta:
+  site: www.stgaming.com
+  user: STGPrince
+  repo: stgaming_sampnpc
+entry: filterscripts/npc.pwn
+output: filterscripts/npc.amx
+dependencies:
+- sampctl/samp-stdlib
+- ziggi/FCNPC:v2.0.0-rc.7
+- oscar-broman/SKY:2.3.0
+- oscar-broman/samp-weapon-config
+- Southclaws/formatex
+- pawn-lang/YSI-Includes
+- maddinat0r/sscanf:v2.8.3
+- samp-incognito/samp-streamer-plugin:v2.9.4
